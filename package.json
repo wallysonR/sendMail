@@ -1,0 +1,9 @@
+{
+  "name": "wallyson",
+  "version": "1.0.0",
+  "description": "test send email for project",
+  "main": "index.js",
+  "repository": "https://github.com/wallyprog/sendMail",
+  "author": "Wallyson Roberto",
+  "license": "MIT"
+}
